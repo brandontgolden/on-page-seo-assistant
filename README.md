@@ -89,8 +89,8 @@ The script will prompt you to:
 ### Example Configuration
 ```
 Website URL: https://example.com
-Max crawl depth: 3
-Max pages: 500
+Max crawl depth: 10
+Max pages: 5000
 Request delay: 0.5 seconds  
 Max retries: 5
 ```
